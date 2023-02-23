@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # ADictionary
 
@@ -34,3 +35,10 @@ Start the server
 ```bash
   npm run start
 ```
+=======
+# A-DicTionary--eDictionary
+This is  Nodejs project which uses html ,Bootstarp and fetches  meaning from free dictionary api.
+Run npm install
+run node server.js
+
+>>>>>>> be892588daae7b730ce2ee497573fab0baf45f3b
